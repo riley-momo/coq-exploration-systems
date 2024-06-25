@@ -1,6 +1,6 @@
 # A Tale of Two Proofs: A Systems-Modelling Exploration of Coq
 
-This work was done as part of a course on interactive theorem provers. In order to become more familiar with practical usage of Coq, I decided to examine the proofs provided in the paper *Formal proofs applied to system models* Contejean, É., & Samokish, A. (2023).
+This work was done as part of my PhD research when exploring interactive theorem provers (ITPs). I am publishing it publcily here in case others may benefit from it, as ITPs can be an overwhelming field to get into. In order to become more familiar with practical usage of Coq, I decided to examine the proofs provided in the paper *Formal proofs applied to system models* Contejean, É., & Samokish, A. (2023).
 In this work, I present my exploration of Coq, motivated by this paper, by creating an example system specification of a steam generator system in a nuclear reactor. I then go on to prove properties of the . You can read my full explanation in the pdf provided here, and view the accompanying Coq code in the .v file. 
 
 ## Contents
